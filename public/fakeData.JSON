@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.pinimg.com/originals/a2/c5/40/a2c5409281191ad9280d0eb506b4c97f.jpg",
+      "name": "Sakib Khan",
+      "role": "Hero",
+      "country": "Bangladesh",
+      "minimum_charge": 1000000
+    },
+    {
+      "id": 2,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Arifin_Shuvo_portrait_2017.jpg/1200px-Arifin_Shuvo_portrait_2017.jpg",
+      "name": "Arifin Shuvo",
+      "role": "Hero",
+      "country": "Bangladesh",
+      "minimum_charge": 800000
+    },
+    {
+      "id": 3,
+      "img": "https://www.leoranews.com/wp-content/uploads/2019/12/jeet-001.jpg",
+      "name": "Jeet",
+      "role": "Hero",
+      "country": "India",
+      "minimum_charge": 1500000
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.risingbd.com/media/imgAll/2021July/en/Porimoni-Risingbd-2108041610-2108041633.jpg",
+      "name": "Porimoni",
+      "role": "Heroine",
+      "country": "Bangladesh",
+      "minimum_charge": 900000
+    },
+    {
+      "id": 5,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Apu_Biswas_Pic.jpg",
+      "name": "Apu Biswas",
+      "role": "Heroine",
+      "country": "Bangladesh",
+      "minimum_charge": 700000
+    },
+    {
+      "id": 6,
+      "img": "https://media.gettyimages.com/photos/koel-mullick-actress-at-tollygunge-studio-in-kolkata-west-bengl-india-picture-id88928504?s=612x612",
+      "name": "Koel Mullick",
+      "role": "Heroine",
+      "country": "India",
+      "minimum_charge": 1300000
+    },
+    {
+      "id": 7,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Misha_Shawdagor_%281%29_%28cropped%29.jpg/1200px-Misha_Shawdagor_%281%29_%28cropped%29.jpg",
+      "name": "Misha Shawdago",
+      "role": "Villain",
+      "country": "Bangladesh",
+      "minimum_charge": 1100000
+    },
+    {
+      "id": 8,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Aashish_Vidyarthi.jpg",
+      "name": "Aashish Vidyarth",
+      "role": "Villain",
+      "country": "India",
+      "minimum_charge": 1400000
+    },
+    {
+      "id": 9,
+      "img": "https://m.media-amazon.com/images/M/MV5BYzUxOTZlN2EtZjhkYi00YzUxLWE3NjUtMjZkOWNmODE5ZGVlXkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_.jpg",
+      "name": "Dipjol",
+      "role": "Villain",
+      "country": "Bangladesh",
+      "minimum_charge": 1300000
+    },
+    {
+      "id": 10,
+      "img": "https://i2.cinestaan.com/image-bank/1500-1500/8001-9000/8311.jpg",
+      "name": "Johnny Lever",
+      "role": "Comedian",
+      "country": "India",
+      "minimum_charge": 1000000
+    },
+    {
+      "id": 11,
+      "img": "https://www.thedailystar.net/sites/default/files/upload-2014/gallery/image/arts/anwara_2.jpg",
+      "name": "anowara begum",
+      "role": "Others",
+      "country": "Bangladesh",
+      "minimum_charge": 700000
+    },
+    {
+      "id": 12,
+      "img": "https://starsunfolded.com/wp-content/uploads/2018/01/Ali-Basha.jpg",
+      "name": "Ali",
+      "role": "Comedian",
+      "country": "India",
+      "minimum_charge": 1400000
+    }
+  ]

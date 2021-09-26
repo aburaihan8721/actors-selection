@@ -1,38 +1,51 @@
-.App {
-  text-align: center;
+
+/* ========================================
+common css
+=========================================== */
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&display=swap');
+
+html,body{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #E5E5E5;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://cdn.pixabay.com/photo/2021/07/15/11/15/woman-6468147_960_720.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.container{
+    max-width: 1140px;
+    margin: auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+img{
+    max-width: 100%;
 }
 
-.App-link {
-  color: #61dafb;
+.btn{
+    width: 150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background: transparent;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    cursor: pointer;
+    color: white;
+    transition: .3s;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn:hover{
+    background: rgb(106, 170, 138);
 }
