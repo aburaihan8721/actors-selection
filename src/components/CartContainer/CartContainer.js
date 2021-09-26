@@ -19,7 +19,7 @@ export default function CartContainer(props) {
     return (
         <div className="cart-container">
             <h2>Summary</h2>
-            <p><FontAwesomeIcon icon={faUser} />Actor Added : {props.cart.length}</p>
+            <p><FontAwesomeIcon icon={faUser} /> Actor Added : {props.cart.length}</p>
             <p>Total Cost : ${total}</p>
             <br />
             <div  key={Math.random()}>

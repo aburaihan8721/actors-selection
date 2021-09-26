@@ -17,7 +17,7 @@ export default function ActorContainer(props) {
             <button 
             onClick={() => props.handleAddToCart(props.actor)}
             className="btn"
-            ><FontAwesomeIcon icon={faShoppingCart} />Add To Cart</button>
+            ><FontAwesomeIcon icon={faShoppingCart} /> Add To Cart</button>
 
         </div>
     )
